@@ -58,7 +58,7 @@ The dashboard aims to answer critical business questions such as:
 - **Regional Trends**: Western and Central regions outperform others in total sales and volume.
 - **Customer Segments**: Repeat customers contribute significantly to revenue; younger demographics prefer newer flavors.
 - **Sales Channels**: Online sales have seen consistent growth, especially post-promotional campaigns.
-- **Seasonality**: Sales peak during festive months—Valentine’s Day, Easter, and December holidays.
+- **Seasonality**: Sales peak during festive months
 
 ---
 
